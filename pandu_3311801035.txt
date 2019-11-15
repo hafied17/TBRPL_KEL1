@@ -1,9 +1,0 @@
-P.11.1
-http://localhost:8080/geoserver/Indonesia/wms?service=WMS&version=1.1.0&request=GetMap&layers=Indonesia%3APolygon&bbox=103.8894496685183%2C0.9798258452357561%2C104.15026681121391%2C1.1995307239097506&width=768&height=646&srs=EPSG%3A4326&format=application/openlayers
-http://localhost:8080/geoserver/Indonesia/wms?service=WMS&version=1.1.0&request=GetMap&layers=Indonesia%3APoint&bbox=103.89460169754169%2C1.0104031794630224%2C104.14668187690991%2C1.1861906035803318&width=768&height=535&srs=EPSG%3A4326&format=application/openlayers
-http://localhost:8080/geoserver/Indonesia/wms?service=WMS&version=1.1.0&request=GetMap&layers=Indonesia%3ALine1&bbox=103.92699995921413%2C1.0954433259968808%2C103.9542262182514%2C1.1265482106382376&width=672&height=768&srs=EPSG%3A4326&format=application/openlayers
-http://localhost:8080/geoserver/Indonesia/wms?service=WMS&version=1.1.0&request=GetMap&layers=Indonesia%3ABatamm&bbox=104.09405298439977%2C1.1201249032181644%2C104.14698879667604%2C1.1940807085907605&width=549&height=768&srs=EPSG%3A4326&format=application/openlayers
-http://localhost:8080/geoserver/Indonesia/wms?service=WMS&version=1.1.0&request=GetMap&layers=Indonesia%3ABatam1&bbox=104.09474380623422%2C1.112532729784882%2C104.1462966150899%2C1.1939775034392273&width=486&height=768&srs=EPSG%3A4326&format=application/openlayers
-
-P.11.2
-http://arcg.is/u8ifO
